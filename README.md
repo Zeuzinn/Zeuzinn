@@ -25,7 +25,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por te
 
 ![Eliseu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeuzinn&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zeuzinn&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zeuzinn&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## 📫 Conecte-se comigo
